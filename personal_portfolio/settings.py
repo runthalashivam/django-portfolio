@@ -25,7 +25,8 @@ SECRET_KEY = 'django-insecure-epl2ddy!fnsycf3*q4(kz9!tg@x$qavaedxd(wp^rr^ivlj4^)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['crashrun10.pythonanywhere.com']
+ALLOWED_HOSTS = ['crashrun10.pythonanywhere.com',
+                 'django-personal-portfolio-v1.herokuapp.com']
 
 
 # Application definition
